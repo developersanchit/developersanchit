@@ -30,3 +30,4 @@ What are my skills other than programming ?<br><br>
 1. I am jack of all and master of one. <br><br>
 2. I have practised & managed over 15 interests. <br><br>
 3. I have no fixed form, like water. <br><br>
+4. I run a digital media agency.
