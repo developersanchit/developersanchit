@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **developersanchit/developersanchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working on creating a unified healthcare platform, SAAS for Shopify store and Plugins for Editing softwares. <br>
+### Hey, I'm Sanchit <br>
+
+I'm currently working on creating a unified healthcare platform. <br>
 I'm currently learning Full stack web development and C.<br>
-I'm looking to collaborate on something that can have big impact on life of people and helpfull for the community.<br>
-I'm looking for help with mentoring and guidance.<br>
+I'm looking to collaborate on something helpfull for the community.<br>
+I'm looking for help with building SAAS products.<br>
 
 <h3>ASK ME ABOUT :</h3><br>
 What are my past projects and experience ?<br>
@@ -25,6 +25,8 @@ How i learned programming ?<br>
 What are my specialisation ?<br>
 What are my skills other than programming ?<br>
 
+### FUN FACT : <br>
 
-<h3>ASK ME ABOUT :</h3><br>
-Instagram : [[sanchitp4tel]](https://www.instagram.com/@sanchitp4tel/)
+1. I am jack of all and master of one. <br>
+2. I have managed over 15 interests/hobbies. <br>
+3. I have no fixed form, like water. <br>
